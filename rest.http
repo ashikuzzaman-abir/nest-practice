@@ -5,3 +5,7 @@ Content-Type: application/json
 {
   "query": "query { hello }"
 }
+
+
+###
+GET http://localhost:3000/
